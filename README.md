@@ -1,0 +1,2 @@
+# startnow
+learn Python
